@@ -1,0 +1,57 @@
+  200  git log
+  201  git push origin main
+  202  git pull
+  203  git commit
+  204  git push origin master
+  205  git push origin main
+  206  git pull --rebase
+  207  git branch --set-upstream-to=origin/<branch> main
+  208  git pull
+  209  origin
+  210  git origin
+  211  git --help
+  212  git branch
+  213  ls
+  214  pull
+  215  git pull
+  216  git fetch origin
+  217  git pull origin
+  218  git diff
+  219  git pull
+  220  git branch --set-upstream-to=<remote>/<branch> main
+  221  git stash
+  222  git main
+  223  git log
+  224  it log
+  225  git log
+  226  git remote add origin https://github.com/ntalib/nmaisondev.git
+  227  git push -u origin main
+  228  ls
+  229  cd
+  230  cd /User/ntalib/Work/nmaison.dev
+  231  cd '/Users/ntalib/Work/nmaison.dev'
+  232  ls
+  233  git config --get remote.origin
+  234  git config --get remote.origin.url
+  235  git remote set-url origin https://github.com/ntalib/nmaisondev
+  236  git config --get remote.origin.url
+  237  git status
+  238  git push
+  239  git push --set-upstream origin main
+  240  git status
+  241  git add
+  242  git add .
+  243  git status
+  244  git commit -M
+  245  git commit -m
+  246  git commit -m 'testing commit'
+  247  git status
+  248  git push
+  249  history
+  250  touch git history.txt
+  251  test
+  252  exit
+  253  ill
+  254  kill
+  255  ls
+  256  history 200 | history.txt
